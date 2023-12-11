@@ -1,0 +1,131 @@
+body {
+	margin:20px 20px 20px 20px;
+}
+
+.Title{
+	text-align: center;
+	color:blue;
+
+}
+.firstpic{
+	width: 500px;
+
+}
+
+h1{
+color:navy;
+}
+
+h2{
+color: navy;
+}
+
+h3{
+color:navy;
+}
+.photo_caption{
+	font-size:12px;
+	color: black;
+}
+.header {
+	background-color: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.Introduction{
+margin-top:20px;
+margin-bottom: 20px;
+margin-left: 100px;
+margin-right:100px;
+padding:25px;
+border:1px black solid;
+text-align: center;
+}
+
+
+.body1{
+margin-top:20px;
+margin-bottom: 20px;
+margin-left:0px ;
+margin-right:600px;
+padding:25px;
+border:1px black solid;	
+}
+
+.body2{
+margin-top:20px;
+margin-bottom: 20px;
+margin-left:600px;
+margin-right:0px;
+padding:25px;
+border:1px black solid;	
+}
+
+.acc{
+margin-top:20px;
+margin-bottom: 20px;
+margin-left: 100px;
+margin-right:100px;
+text-align: center;
+}
+
+.big10{
+margin-top:20px;
+margin-bottom: 20px;
+margin-left: 100px;
+margin-right:100px;
+text-align: center;
+}
+
+
+.pac12{
+margin-top:20px;
+margin-bottom: 20px;
+margin-left: 100px;
+margin-right:100px;
+text-align: center;
+}
+
+.big12{
+margin-top:20px;
+margin-bottom: 20px;
+margin-left: 100px;
+margin-right:100px;
+text-align: center;	
+}
+
+.sec{
+margin-top:20px;
+margin-bottom: 20px;
+margin-left: 100px;
+margin-right:100px;
+text-align: center;	
+}
+
+.whole{
+	text-align: center;
+}
+
+.visual1{
+margin-top:20px;
+margin-bottom: 20px;
+margin-left: 100px;
+margin-right:100px;
+padding:25px;
+border:1px black solid;
+text-align: center;
+}
+
+.visual2{
+margin-top:20px;
+margin-bottom: 20px;
+margin-left: 100px;
+margin-right:100px;
+padding:25px;
+border:1px black solid;
+text-align: center;
+}
+
